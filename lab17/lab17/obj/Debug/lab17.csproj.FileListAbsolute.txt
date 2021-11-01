@@ -1,0 +1,7 @@
+C:\Users\grizh\OneDrive\Desktop\СП\Laba 17\lab17\lab17\bin\Debug\lab17.exe.config
+C:\Users\grizh\OneDrive\Desktop\СП\Laba 17\lab17\lab17\bin\Debug\lab17.exe
+C:\Users\grizh\OneDrive\Desktop\СП\Laba 17\lab17\lab17\bin\Debug\lab17.pdb
+C:\Users\grizh\OneDrive\Desktop\СП\Laba 17\lab17\lab17\obj\Debug\lab17.csproj.AssemblyReference.cache
+C:\Users\grizh\OneDrive\Desktop\СП\Laba 17\lab17\lab17\obj\Debug\lab17.csproj.CoreCompileInputs.cache
+C:\Users\grizh\OneDrive\Desktop\СП\Laba 17\lab17\lab17\obj\Debug\lab17.exe
+C:\Users\grizh\OneDrive\Desktop\СП\Laba 17\lab17\lab17\obj\Debug\lab17.pdb

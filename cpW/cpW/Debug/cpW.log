@@ -1,0 +1,8 @@
+﻿  cpW.cpp
+C:\Users\grizh\OneDrive\Desktop\СП\Laba 17\cpW\cpW\cpW.cpp(21,10): warning C4476: "printf": неизвестный символ поля типа "\xd1" в описателе формата
+C:\Users\grizh\OneDrive\Desktop\СП\Laba 17\cpW\cpW\cpW.cpp(21,98): warning C4474: "printf" : для строки формата передано слишком много аргументов
+C:\Users\grizh\OneDrive\Desktop\СП\Laba 17\cpW\cpW\cpW.cpp(21,98): message : заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+C:\Users\grizh\OneDrive\Desktop\СП\Laba 17\cpW\cpW\cpW.cpp(28,10): warning C4476: "printf": неизвестный символ поля типа "\xd1" в описателе формата
+C:\Users\grizh\OneDrive\Desktop\СП\Laba 17\cpW\cpW\cpW.cpp(28,100): warning C4474: "printf" : для строки формата передано слишком много аргументов
+C:\Users\grizh\OneDrive\Desktop\СП\Laba 17\cpW\cpW\cpW.cpp(28,100): message : заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+  cpW.vcxproj -> C:\Users\grizh\OneDrive\Desktop\СП\Laba 17\cpW\Debug\cpW.exe
